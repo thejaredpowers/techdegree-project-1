@@ -175,7 +175,7 @@ a.social:hover {
       display: flex; 
       max-width: 1200px;
       -ms-flex-pack: distribute;
-      justify-content: space-around;
+      justify-content: space-evenly;
       margin: 0 auto;
       flex-wrap: wrap;
   }
