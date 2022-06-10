@@ -166,6 +166,9 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
+.hobbies_img {
+  width: 85%;
+}
 
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
