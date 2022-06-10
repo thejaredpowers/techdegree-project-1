@@ -166,8 +166,13 @@ a.social:hover {
 .clearfix {
   clear: both;
 }
+.img_box {
+  display:  flex;
+  align-items: center;
+  justify-content: center;
+}
 .hobbies_img {
-  width: 85%;
+  width: 65%;
 }
 
 /* Styles for larger screens */
